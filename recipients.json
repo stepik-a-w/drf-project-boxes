@@ -1,182 +1,197 @@
 [
   { 
     "id": 1,
+    "email": "vanyavanya@ynadex.ru",
+    "password": "DHRypOB99r",
     "info": {
       "surname": "Иванов",
       "name": "Иван",
       "patronymic": "Иванович"
     },
     "contacts" : {"phoneNumber": "8-999-777-66-00"},
-    "city_kladr": "78 000 000 000 00",
-    "address" : "ул. Хрустальная, 21, кв 27", 
+    "city": "Санкт-Петербург",
     "premium" : false
   },
   {
     "id": 2,
+    "email": "lola999@bk.ru",
+    "password": "YBR9DsKEO#",
     "info": {
       "surname": "Малейкина",
       "name": "Лолита",
       "patronymic": "Петровна"
     },
     "contacts" : {"phoneNumber": "8-919-457-36-60"},
-    "city_kladr": "78 000 000 000 00",
-    "address" : "ул. Ладожская, 15, кв 277", 
+    "city_kladr": "Санкт-Петербург",
     "premium" : false
   },
   {
     "id": 3,
+    "email": "liz1234@gmail.com",
+    "password": "7sjD%9OFIM",
     "info": {
       "surname": "Игахина",
       "name": "Елизавета",
       "patronymic": "Сидоровна"
     },
     "contacts" : {"phoneNumber": "8-949-634-26-41"},
-    "city_kladr": "78 000 000 000 00",
-    "address" : "ул. Ладожская, 15, кв 277", 
+    "city_kladr": "Санкт-Петербург",
     "premium" : true
   },
   {
     "id": 4,
+    "email": "vasilev.petr@mail.ru",
+    "password": "?JiVXx5~Kl",
     "info": {
       "surname": "Васильев",
       "name": "Петр",
       "patronymic": "Игнатович"
     },
     "contacts" : {"phoneNumber": "8-921-644-16-43"},
-    "city_kladr": "78 000 000 000 00",
-    "address" : "ул. Лейкина, 35, кв 174", 
+    "city_kladr": "Санкт-Петербург",
     "premium" : true
   },
   {
     "id": 5,
+    "email": "logsasha@yandex.ru",
+    "password": "vf{X}Zd7KX",
     "info": {
       "surname": "Логенков",
       "name": "Александр",
       "patronymic": "Иванович"
     },
     "contacts" : {"phoneNumber": "8-921-614-46-43"},
-    "city_kladr": "78 000 000 000 00",
-    "address" : "Советский пр, 14, кв 544", 
+    "city_kladr": "Санкт-Петербург",
     "premium" : false
   },
   {
     "id": 6,
+    "email": "safinamary@gmail.com",
+    "password": "4?I1jwWK}i",
     "info": {
       "surname": "Сафинова",
       "name": "Марина",
       "patronymic": "Андреевна"
     },
     "contacts" : {"phoneNumber": "8-916-144-66-23"},
-    "city_kladr": "77 000 000 000 00",
-    "address" : "ул. Красная, 2, кв 44", 
+    "city_kladr": "Москва", 
     "premium" : false
   },
   {
     "id": 7,
+    "email": "maryviolet@yohhoo.com",
+    "password": "m85SGMS*e{",
     "info": {
       "surname": "Махина",
       "name": "Мария",
       "patronymic": "Евгеньевна"
     },
     "contacts" : {"phoneNumber": "8-916-124-46-22"},
-    "city_kladr": "77 000 000 000 00",
-    "address" : "ул. Ленина, 32, кв 34", 
+    "city_kladr": "Москва", 
     "premium" : false
   },
   {
     "id": 8,
+    "email": "hotpupka@yohhoo.com",
+    "password": "hly~HvtLdm",
     "info": {
       "surname": "Пупыркин",
       "name": "Илья",
       "patronymic": "Федорович"
     },
     "contacts" : {"phoneNumber": "8-926-204-06-22"},
-    "city_kladr": "77 000 000 000 00",
-    "address" : "ул. Победы, 31, кв 24", 
+    "city_kladr": "Москва",
     "premium" : true
   },
   {
     "id": 9,
+    "email": "gradinbo@rb.com",
+    "password": "O$c|HfXhz?",
     "info": {
       "surname": "Лобко",
       "name": "Софья",
       "patronymic": "Михайловна"
     },
     "contacts" : {"phoneNumber": "8-932-264-76-02"},
-    "city_kladr": "77 000 000 000 00",
-    "address" : "ул. Правды, 71, кв 264", 
+    "city_kladr": "Москва",
     "premium" : false
   },
   {
     "id": 10,
+    "email": "not.red.pepper@mail.ru",
+    "password": "SlpU%o4x5c",
     "info": {
       "surname": "Перцев",
       "name": "Сергей",
       "patronymic": "Сергеевич"
     },
     "contacts" : {"phoneNumber": "8-921-264-46-72"},
-    "city_kladr": "78 000 000 000 00",
-    "address" : "Енохин пр, 1, кв 64", 
+    "city_kladr": "Санкт-Петербург",
     "premium" : false
   },
   {
     "id": 11,
+    "email": "zajkaindream@yandex.ru",
+    "password": "BklwXxftzp",
     "info": {
       "surname": "Зайцева",
       "name": "Алиса",
       "patronymic": "Юрьевна"
     },
     "contacts" : {"phoneNumber": "8-911-764-86-22"},
-    "city_kladr": "78 000 000 000 00",
-    "address" : "ул. Солнцева, 21, кв 644", 
+    "city_kladr": "Санкт-Петербург",
     "premium" : false
   },
   {
     "id": 12,
+    "email": "kavdracat@gmail.com",
+    "password": "SRR2Zs~~nO",
     "info": {
       "surname": "Клеточкин",
       "name": "Сергей",
       "patronymic": "Витальевич"
     },
     "contacts" : {"phoneNumber": "8-923-344-96-42"},
-    "city_kladr": "78 000 000 000 00",
-    "address" : "ул. Прокопенко, 61, кв 361", 
+    "city_kladr": "Санкт-Петербург",
     "premium" : false
   },
   {
     "id": 13,
+    "email": "puspus1989@mail.ru",
+    "password": "S4wN4juD1V",
     "info": {
       "surname": "Пузина",
       "name": "Алена",
       "patronymic": "Сергеевна"
     },
     "contacts" : {"phoneNumber": "8-921-664-16-29"},
-    "city_kladr": "78 000 000 000 00",
-    "address" : "Легендарный пр, 16, кв 324", 
+    "city_kladr": "Санкт-Петербург",
     "premium" : false
   },
   {
     "id": 14,
+    "email": "antosha1978@bk.ru",
+    "password": "2~NFs~UifI",
     "info": {
       "surname": "Лихой",
       "name": "Антон",
       "patronymic": "Игоревич"
     },
     "contacts" : {"phoneNumber": "8-923-224-06-02"},
-    "city_kladr": "77 000 000 000 00",
-    "address" : "Лисий пр, 43, кв 664", 
+    "city_kladr": "Москва",
     "premium" : false
   },
   {
     "id": 15,
+    "email": "anna009890@nt.com",
+    "password": "MSMqYk}tBX",
     "info": {
       "surname": "Краухина",
       "name": "Анна",
       "patronymic": "Вадимовна"
     },
     "contacts" : {"phoneNumber": "8-911-294-86-12"},
-    "city_kladr": "78 000 000 000 00",
-    "address" : "ул. Петровых, 23, кв 73", 
+    "city_kladr": "Санкт-Петербург",
     "premium" : false
   }
 ]
