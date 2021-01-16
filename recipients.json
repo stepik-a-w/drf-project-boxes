@@ -9,7 +9,7 @@
       "patronymic": "Иванович"
     },
     "contacts" : {"phoneNumber": "8-999-777-66-00"},
-    "city": "Санкт-Петербург",
+    "city_kladr": "Санкт-Петербург",
     "premium" : false
   },
   {
